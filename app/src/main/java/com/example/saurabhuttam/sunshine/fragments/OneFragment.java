@@ -105,7 +105,7 @@ public class OneFragment extends Fragment implements OpenWeatherCallback{
             conditionIcon.setText(IdToImageConverter.getConverter(getActivity(), icon));
         }catch (Exception e)
         {
-            Toast.makeText(getContext(),""+e,Toast.LENGTH_LONG).show();
+            Toast.makeText(getActivity(),""+e,Toast.LENGTH_LONG).show();
         }
         // conditionIcon.setTypeface(weatherFonts);
     }

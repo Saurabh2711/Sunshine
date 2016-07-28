@@ -7,6 +7,7 @@
     android:paddingTop="8dp"
     android:paddingBottom="8dp"
     android:orientation="horizontal"
+    android:background="@color/colorPrimary"
 
     >
 
@@ -20,6 +21,7 @@
         android:layout_centerVertical="true"
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true"
+        android:textColor="#FFF"
         android:textSize="40sp"/>
 
     <TextView
@@ -30,6 +32,7 @@
         android:gravity="center"
         android:textStyle="bold"
         android:id="@+id/humidityIcon"
+        android:textColor="#FFF"
         android:layout_centerVertical="true"
         android:layout_toRightOf="@+id/iconTextView"
         android:layout_toEndOf="@+id/iconTextView"
@@ -41,6 +44,7 @@
         android:textAppearance="?android:attr/textAppearanceMedium"
         android:text="Condition"
         android:id="@+id/condition"
+        android:textColor="#FFF"
         android:textStyle="bold"
         android:layout_toRightOf="@+id/iconTextView"
         android:layout_toEndOf="@+id/iconTextView"
@@ -53,6 +57,7 @@
         android:gravity="center"
         android:text="&#xf07a;"
         android:textStyle="bold"
+        android:textColor="#FFF"
         android:id="@+id/windIcon"
         android:layout_below="@+id/iconTextView"
         android:layout_toRightOf="@+id/iconTextView"
@@ -65,6 +70,7 @@
         android:layout_toEndOf="@+id/humidityIcon"
         android:layout_centerVertical="true"
         android:text="humidity"
+        android:textColor="#FFF"
         android:id="@+id/windspeed"
         android:textStyle="bold"
         android:layout_marginLeft="10dp"/>
@@ -73,6 +79,7 @@
         android:layout_height="wrap_content"
         android:id="@+id/humidity"
         android:textStyle="bold"
+        android:textColor="#FFF"
         android:layout_toRightOf="@id/humidityIcon"
         android:layout_toEndOf="@id/humidityIcon"
         android:layout_below="@id/iconTextView"
@@ -88,6 +95,7 @@
         android:textAppearance="?android:attr/textAppearanceMedium"
         android:text="Medium Text"
         android:id="@+id/temp"
+        android:textColor="#FFF"
         android:layout_centerVertical="true"
         android:layout_alignParentRight="true"
         android:textSize="30sp"
@@ -97,6 +105,7 @@
         android:layout_height="wrap_content"
         android:text="day"
         android:layout_alignParentRight="true"
+        android:textColor="#FFF"
         android:id="@+id/day"
         android:layout_alignParentBottom="true"/>
 

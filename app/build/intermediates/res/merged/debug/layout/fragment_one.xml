@@ -7,6 +7,7 @@
     android:orientation="vertical"
     android:paddingLeft="15dp"
     android:paddingRight="15dp"
+    android:background="@color/colorPrimary"
     tools:context="com.example.saurabhuttam.sunshine.fragments.OneFragment">
 
 
@@ -34,6 +35,7 @@
                    android:layout_height="match_parent"
                    android:textAppearance="?android:attr/textAppearanceLarge"
                    android:text="000"
+                   android:textColor="#FFF"
                    android:id="@+id/tempTV"
                    android:textSize="60sp"
                    android:fontFamily="sans-serif-condensed"
@@ -44,6 +46,7 @@
                    android:layout_height="match_parent"
                    android:gravity="bottom|left"
                    android:textSize="40sp"
+                   android:textColor="#FFF"
                    android:paddingBottom="10dp"
                    android:text="\u00B0C"
 
@@ -54,6 +57,7 @@
                android:layout_height="0dp"
                android:layout_weight="1"
                android:text="City|Country"
+               android:textColor="#FFF"
                android:id="@+id/cityTV"
                android:paddingTop="0dp"
                android:gravity="center_horizontal"/>
@@ -73,7 +77,7 @@
                android:layout_weight="4"
                android:textSize="100sp"
                android:text="&#xf01a;"
-               android:textColor="#000"
+               android:textColor="#FFF"
                android:id="@+id/conditionIV"
                android:gravity="center_horizontal|bottom"/>
            <TextView
@@ -81,6 +85,7 @@
                android:layout_height="0dp"
                android:layout_weight="1"
                android:text="Condition"
+               android:textColor="#FFF"
                android:id="@+id/condtion"
                android:gravity="center_horizontal|top"/>
 
@@ -114,7 +119,7 @@
                         android:layout_weight="1"
                         android:layout_height="match_parent"
                         android:text="&#xf07a;"
-                        android:textColor="#000"
+                        android:textColor="#FFF"
                         android:textStyle="bold"
                         android:gravity="center"
                         android:textSize="20sp"
@@ -124,6 +129,7 @@
                         android:paddingLeft="10dp"
                         android:layout_width="0dp"
                         android:layout_weight="4"
+                        android:textColor="#FFF"
                         android:textSize="16sp"
                         android:layout_height="match_parent"
                         android:text="Humidity"
@@ -141,7 +147,7 @@
                         android:layout_weight="1"
                         android:layout_height="match_parent"
                         android:text="&#xf021;"
-                        android:textColor="#000"
+                        android:textColor="#FFF"
                         android:textStyle="bold"
                         android:gravity="center"
                         android:textSize="20sp"
@@ -152,6 +158,7 @@
                         android:layout_width="0dp"
                         android:layout_weight="4"
                         android:textSize="16sp"
+                        android:textColor="#FFF"
                         android:layout_height="match_parent"
                         android:text="Wind Speed"
                         android:textStyle="bold"
@@ -167,7 +174,7 @@
                         android:layout_weight="1"
                         android:layout_height="match_parent"
                         android:text="&#xf051;"
-                        android:textColor="#000"
+                        android:textColor="#FFF"
                         android:textStyle="bold"
                         android:gravity="center"
                         android:textSize="20sp"
@@ -177,6 +184,7 @@
                         android:paddingLeft="10dp"
                         android:layout_width="0dp"
                         android:layout_weight="4"
+                        android:textColor="#FFF"
                         android:layout_height="match_parent"
                         android:text="Sunrise"
                         android:textSize="16sp"
@@ -192,7 +200,7 @@
                         android:layout_weight="1"
                         android:layout_height="match_parent"
                         android:text="&#xf052;"
-                        android:textColor="#000"
+                        android:textColor="#FFF"
                         android:textStyle="bold"
                         android:gravity="center"
                         android:textSize="20sp"
@@ -202,6 +210,7 @@
                         android:paddingLeft="10dp"
                         android:layout_width="0dp"
                         android:layout_weight="4"
+                        android:textColor="#FFF"
                         android:layout_height="match_parent"
                         android:text="Sunset"
                         android:textSize="16sp"
@@ -224,12 +233,14 @@
                     android:text="55%"
                     android:textSize="16sp"
                     android:textStyle="bold"
+                    android:textColor="#FFF"
                     android:id="@+id/humidityTV"/>
                 <TextView
                     android:gravity="left|center_vertical"
                     android:textStyle="bold"
                     android:layout_width="match_parent"
                     android:layout_height="0dp"
+                    android:textColor="#FFF"
                     android:layout_weight="1"
                     android:text="5 m/s"
                     android:textSize="16sp"
@@ -239,6 +250,7 @@
                     android:textStyle="bold"
                     android:layout_width="match_parent"
                     android:layout_height="0dp"
+                    android:textColor="#FFF"
                     android:layout_weight="1"
                     android:text="5 AM"
                     android:textSize="16sp"
@@ -249,6 +261,7 @@
                     android:textStyle="bold"
                     android:layout_width="match_parent"
                     android:layout_height="0dp"
+                    android:textColor="#FFF"
                     android:layout_weight="1"
                     android:text="6 AM"
                     android:textSize="16sp"
@@ -271,6 +284,7 @@
                     android:layout_height="0dp"
                     android:layout_weight="1"
                     android:text="Min-Temp"
+                    android:textColor="#FFF"
                     android:textSize="16sp"
                     android:gravity="bottom|center_horizontal"/>
                 <TextView
@@ -278,6 +292,7 @@
                     android:layout_height="0dp"
                     android:layout_weight="2"
                     android:text="00\u00B0C"
+                    android:textColor="#FFF"
                     android:textSize="40sp"
                     android:gravity="center_horizontal|top"
                     android:id="@+id/minTempTV"/>
@@ -292,6 +307,7 @@
                     android:layout_height="0dp"
                     android:layout_weight="1"
                     android:text="Max-Temp"
+                    android:textColor="#FFF"
                     android:textSize="16sp"
                     android:gravity="bottom|center_horizontal"/>
                 <TextView
@@ -299,6 +315,7 @@
                     android:layout_height="0dp"
                     android:layout_weight="2"
                     android:text="00\u00B0C"
+                    android:textColor="#FFF"
                     android:textSize="40sp"
                     android:gravity="center_horizontal|top"
                     android:id="@+id/maxTempTV"/>
