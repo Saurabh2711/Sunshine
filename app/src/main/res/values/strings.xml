@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">Sunshine</string>
+
+    <string-array name="tabs">
+        <item>Today</item>
+        <item>Week</item>
+        <item>Graph</item>
+    </string-array>
+    <string name="icon_200">&#xf010;</string>
+    <string name="icon_201">&#xf010;</string>
+    <string name="icon_202">&#xf01e;</string>
+    <string name="icon_210">&#xf005;</string>
+    <string name="icon_211">&#xf005;</string>
+    <string name="icon_212">&#xf01e;</string>
+    <string name="icon_221">&#xf01e;</string>
+    <string name="icon_230">&#xf01e;</string>
+    <string name="icon_231">&#xf01e;</string>
+    <string name="icon_232">&#xf01e;</string>
+    <string name="icon_300">&#xf01c;</string>
+    <string name="icon_301">&#xf01c;</string>
+    <string name="icon_302">&#xf019;</string>
+    <string name="icon_310">&#xf017;</string>
+    <string name="icon_311">&#xf019;</string>
+    <string name="icon_312">&#xf019;</string>
+    <string name="icon_313">&#xf01a;</string>
+    <string name="icon_314">&#xf019;</string>
+    <string name="icon_321">&#xf01c;</string>
+    <string name="icon_500">&#xf01c;</string>
+    <string name="icon_501">&#xf019;</string>
+    <string name="icon_502">&#xf019;</string>
+    <string name="icon_503">&#xf019;</string>
+    <string name="icon_504">&#xf019;</string>
+    <string name="icon_511">&#xf017;</string>
+    <string name="icon_520">&#xf01a;</string>
+    <string name="icon_521">&#xf01a;</string>
+    <string name="icon_522">&#xf01a;</string>
+    <string name="icon_531">&#xf01d;</string>
+    <string name="icon_600">&#xf01b;</string>
+    <string name="icon_601">&#xf01b;</string>
+    <string name="icon_602">&#xf0b5;</string>
+    <string name="icon_611">&#xf017;</string>
+    <string name="icon_612">&#xf017;</string>
+    <string name="icon_615">&#xf017;</string>
+    <string name="icon_616">&#xf017;</string>
+    <string name="icon_620">&#xf017;</string>
+    <string name="icon_621">&#xf01b;</string>
+    <string name="icon_622">&#xf01b;</string>
+    <string name="icon_701">&#xf01a;</string>
+    <string name="icon_711">&#xf062;</string>
+    <string name="icon_721">&#xf0b6;</string>
+    <string name="icon_731">&#xf063;</string>
+    <string name="icon_741">&#xf014;</string>
+    <string name="icon_761">&#xf063;</string>
+    <string name="icon_762">&#xf063;</string>
+    <string name="icon_771">&#xf02f;</string>
+    <string name="icon_781">&#xf056;</string>
+    <string name="icon_800">&#xf00d;</string>
+    <string name="icon_801">&#xf002;</string>
+    <string name="icon_802">&#xf00c;</string>
+    <string name="icon_803">&#xf00c;</string>
+    <string name="icon_804">&#xf00c;</string>
+    <string name="icon_900">&#xf056;</string>
+    <string name="icon_901">&#xf00e;</string>
+    <string name="icon_902">&#xf073;</string>
+    <string name="icon_903">&#xf076;</string>
+    <string name="icon_904">&#xf072;</string>
+    <string name="icon_905">&#xf001;</string>
+    <string name="icon_906">&#xf004;</string>
+    <string name="icon_957">&#xf050;</string>
+</resources>

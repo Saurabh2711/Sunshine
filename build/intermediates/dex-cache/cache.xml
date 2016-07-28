@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\Android\Sunshine2\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d17118f8374aa2584e763ef06851b9319ed43ab5">
+        <dex dex="E:\Android\Sunshine2\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_417089a3d400680039c2e1ed7321a64165361972\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Saurabh Uttam\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="E:\Android\Sunshine2\app\build\intermediates\transforms\dex\debug\folders\1000\10\glide-3.7.0_138a786e14aa74fbf033fbbac66d31441a4babfa\classes.dex" />
+    </item>
+    <item
+        jar="E:\Android\Sunshine2\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="74c14df1222b93153ea24b365551202711dad7ee">
+        <dex dex="E:\Android\Sunshine2\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_670c9aeb08e8c33c2fe79065aa3dcdff075bf1d9\classes.dex" />
+    </item>
+    <item
+        jar="E:\Android\Sunshine2\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="E:\Android\Sunshine2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.4.0_920ccd743ed3d1cd3a5ac2e47509510bdf061032\classes.dex" />
+    </item>
+    <item
+        jar="E:\Android\Sunshine2\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="E:\Android\Sunshine2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_83205785925d669e51c1184e8aa3883ab7a4b13b\classes.dex" />
+    </item>
+    <item
+        jar="E:\Android\Sunshine2\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="E:\Android\Sunshine2\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_6804fea2f35682824e78e2d00c172954d556ce76\classes.dex" />
+    </item>
+    <item
+        jar="E:\Android\Sunshine2\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="E:\Android\Sunshine2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_70ead0368b10c92189bc962f0796d4b24d6c9b33\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Saurabh Uttam\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="E:\Android\Sunshine2\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_53d2e81fa7e93eedbd6ecf211159e1f5282b0351\classes.dex" />
+    </item>
+    <item
+        jar="E:\Android\Sunshine2\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="E:\Android\Sunshine2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_b0d88b76dceae7eeab2b756c2e98dfa31964db0a\classes.dex" />
+    </item>
+    <item
+        jar="E:\Android\Sunshine2\app\build\intermediates\exploded-aar\com.mcxiaoke.volley\library-aar\1.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e40b9a81989bd4a846018551c280f8c4d837bf2e">
+        <dex dex="E:\Android\Sunshine2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.mcxiaoke.volley-library-aar-1.0.0_eeae57c35357e267c2cd1b7d6ce8c15222157534\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Saurabh Uttam\.gradle\caches\modules-2\files-2.1\com.github.PhilJay\MPAndroidChart\v2.0.9\4244e2998018aa492389e8e30a77b7987959608e\MPAndroidChart-v2.0.9.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4244e2998018aa492389e8e30a77b7987959608e">
+        <dex dex="E:\Android\Sunshine2\app\build\intermediates\transforms\dex\debug\folders\1000\10\MPAndroidChart-v2.0.9_68703f4884c8d9878a5fb7972a7328bcf285faf9\classes.dex" />
+    </item>
+    <item
+        jar="E:\Android\Sunshine2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="E:\Android\Sunshine2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_89367500b990332905f78da2cc1bce7dd25b03db\classes.dex" />
+    </item>
+    <item
+        jar="E:\Android\Sunshine2\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="E:\Android\Sunshine2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.4.0_d30e5b357fc0a30d243f610c494a4239d0ebf91a\classes.dex" />
+    </item>
+
+</items>

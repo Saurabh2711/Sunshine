@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="20dp"
+    android:paddingRight="20dp"
+    android:paddingTop="8dp"
+    android:paddingBottom="8dp"
+    android:orientation="horizontal"
+
+    >
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Large Text"
+        android:id="@+id/iconTextView"
+        android:layout_centerVertical="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:textSize="40sp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="&#xf021;"
+        android:gravity="center"
+        android:textStyle="bold"
+        android:id="@+id/humidityIcon"
+        android:layout_centerVertical="true"
+        android:layout_toRightOf="@+id/iconTextView"
+        android:layout_toEndOf="@+id/iconTextView"
+        android:layout_marginLeft="20dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Condition"
+        android:id="@+id/condition"
+        android:textStyle="bold"
+        android:layout_toRightOf="@+id/iconTextView"
+        android:layout_toEndOf="@+id/iconTextView"
+        android:layout_marginLeft="20dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:gravity="center"
+        android:text="&#xf07a;"
+        android:textStyle="bold"
+        android:id="@+id/windIcon"
+        android:layout_below="@+id/iconTextView"
+        android:layout_toRightOf="@+id/iconTextView"
+        android:layout_toEndOf="@+id/iconTextView"
+        android:layout_marginLeft="20dp"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@+id/humidityIcon"
+        android:layout_toEndOf="@+id/humidityIcon"
+        android:layout_centerVertical="true"
+        android:text="humidity"
+        android:id="@+id/windspeed"
+        android:textStyle="bold"
+        android:layout_marginLeft="10dp"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/humidity"
+        android:textStyle="bold"
+        android:layout_toRightOf="@id/humidityIcon"
+        android:layout_toEndOf="@id/humidityIcon"
+        android:layout_below="@id/iconTextView"
+        android:text="wind"
+        android:layout_marginTop="2dp"
+        android:gravity="center"
+        android:layout_marginLeft="10dp"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Medium Text"
+        android:id="@+id/temp"
+        android:layout_centerVertical="true"
+        android:layout_alignParentRight="true"
+        android:textSize="30sp"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="day"
+        android:layout_alignParentRight="true"
+        android:id="@+id/day"
+        android:layout_alignParentBottom="true"/>
+
+</RelativeLayout>
