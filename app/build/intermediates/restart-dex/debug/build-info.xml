@@ -4,7 +4,7 @@
     api-level="23"
     density="xxhdpi"
     format="7"
-    timestamp="23242662668522"
+    timestamp="71903496625452"
     token="867145874878159329" >
 
     <task
@@ -20,19 +20,11 @@
         name="verifier"
         duration="0" />
 
-    <artifact
-        location="E:\Android\Sunshine2\app\build\intermediates\res\resources-debug.ap_"
-        type="RESOURCES" />
-
-    <build timestamp="21642381394814" >
+    <build timestamp="71701821871502" >
         <artifact
             location="E:\Android\Sunshine2\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
     </build>
-    <build timestamp="23242662668522" >
-        <artifact
-            location="E:\Android\Sunshine2\app\build\intermediates\res\resources-debug.ap_"
-            type="RESOURCES" />
-    </build>
+    <build timestamp="71903496625452" />
 
 </instant-run>

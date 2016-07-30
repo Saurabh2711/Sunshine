@@ -53,7 +53,7 @@ public class MainActivity extends AppCompatActivity{
         setupViewPager(viewPager);
         tabs=(TabLayout)findViewById(R.id.tabs);
         tabs.setupWithViewPager(viewPager);
-
+        refresh();
     }
 
     //Appbar Handling
@@ -83,7 +83,7 @@ public class MainActivity extends AppCompatActivity{
 
     @Override
     protected void onStart() {
-        refresh();
+
         super.onStart();
     }
 
